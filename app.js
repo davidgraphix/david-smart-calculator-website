@@ -20,6 +20,7 @@ function pushTheAnswerToTheDisplayMenu(){
 
 
 const numOneElement = document.getElementById('one_btn')
+
 const numTwoElement = document.getElementById('two_btn')
 const numThreeElement = document.getElementById('three_btn')
 const NumFourElement = document.getElementById('four_btn')
